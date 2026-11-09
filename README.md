@@ -26,12 +26,12 @@ I'm a **Computer Science & Engineering undergraduate at the University of Moratu
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ---
-
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wdpasindujayalath16301-cyber&show_icons=true&theme=radical&hide_border=true" alt="Pasindu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wdpasindujayalath16301-cyber&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
